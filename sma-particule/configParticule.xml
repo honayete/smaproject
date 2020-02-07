@@ -1,0 +1,13 @@
+<sma>
+	<env id="01">
+		<gridSizeX>10</gridSizeX>
+		<gridSizeY>10</gridSizeY>
+		<boxSize>30</boxSize>		
+		<nbTickt>0</nbTickt>
+		<nbParticules>50</nbParticules>
+		<delay>200</delay>
+		<torus>false</torus>
+		<trace>true</trace>
+		<grid>true</grid>
+	</env>
+</sma>

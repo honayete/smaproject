@@ -1,0 +1,17 @@
+<sma>
+	<env id="01">
+		<gridSizeX>50</gridSizeX>
+		<gridSizeY>50</gridSizeY>
+		<boxSize>10</boxSize>		
+		<nbTickt>0</nbTickt>
+		<nbfish>500</nbfish>
+		<nbshark>400</nbshark>
+		<fishBreedTime>3</fishBreedTime>
+		<sharkBreedTime>3</sharkBreedTime>
+		<sharkStraveTime>4</sharkStraveTime>
+		<delay>10</delay>
+		<trace>true</trace><torus>true</torus>
+		
+		<grid>true</grid>
+	</env>
+</sma>
